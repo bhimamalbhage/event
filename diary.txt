@@ -1,3 +1,23 @@
+Project requirements:
+1. Calender 2x (one in event submenu and at homepage-little in size)
+2. Multilanuage
+3. Guestbook
+4. Go to top arrow
+5. Social media buttons
+6. Contact form
+7. footer and header
+8. Map Integration
+
+Project Schedule(Estimates):
+1. Calender - 5 days
+2. Make website multilanguage - 1 week
+3. Guestbook - 3 days
+4. Header,Footer,Social Media buttons,Go to Top - 1 week
+5. Contact Form,Map Integration - 3 days
+6. Q & A with Zsolt - 1 week 
+
+
+
 Day 1 (25-09-19) -> Started with building calendar.
                     Done with building big calendar.
 Day 2 (26-09-19) -> Added events to calendar.
