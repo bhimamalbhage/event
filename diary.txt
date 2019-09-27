@@ -12,9 +12,10 @@ Project Schedule(Estimates):
 1. Calender - 5 days
 2. Make website multilanguage - 1 week
 3. Guestbook - 3 days
-4. Header,Footer,Social Media buttons,Go to Top - 1 week
-5. Contact Form,Map Integration - 3 days
-6. Q & A with Zsolt - 1 week 
+4. Small Calendar - 2 days
+5. Header,Footer,Social Media buttons,Go to Top - 1 week
+6. Contact Form,Map Integration - 3 days
+7. Q & A with Zsolt - 1 week 
 
 
 
