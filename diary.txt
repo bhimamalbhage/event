@@ -23,6 +23,8 @@ Day 1 (25-09-19) -> Started with building calendar.
                     Done with building big calendar.
 Day 2 (26-09-19) -> Added events to calendar.
                     Event Popup Function.
-Day 3 (24-09-19) -> Arranged events with order below calendar.
+Day 3 (27-09-19) -> Arranged events with order below calendar.
                     After clicking event popup it jumps to particular event.
+Day 4 (28-09-19) -> Started to build homepage.
+                    Multilanguage site Building
                     
