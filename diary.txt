@@ -27,4 +27,7 @@ Day 3 (27-09-19) -> Arranged events with order below calendar.
                     After clicking event popup it jumps to particular event.
 Day 4 (28-09-19) -> Started to build homepage.
                     Multilanguage site Building
+Day 5 (01-10-19) -> Slide Images over top menu header
+
+Day 6 (02-10-19) -> Integrate Multilanguage with Calendar 
                     
