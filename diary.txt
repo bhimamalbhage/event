@@ -29,5 +29,6 @@ Day 4 (28-09-19) -> Started to build homepage.
                     Multilanguage site Building
 Day 5 (01-10-19) -> Slide Images over top menu header
 
-Day 6 (02-10-19) -> Integrate Multilanguage with Calendar 
+Day 6 (02-10-19) -> Started Integrating Multilanguage with Calendar 
+                    Started guestbook
                     
