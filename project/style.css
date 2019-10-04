@@ -1,0 +1,17 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    font-family: sans-serif;
+}
+.navbar-nav li
+{
+    padding: 0 20px;
+}
+.dropdown:hover>.dropdown-menu
+{
+	display: block;
+}
