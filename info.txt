@@ -1,0 +1,37 @@
+First page will always be index.php of any project... 
+So index.php is now our welcome page.
+	connect.php-> Mysql connection page
+
+	index.php -> Welcome Page
+	
+	content.php-> Home page(slideshow,text content,map,ads)
+	In home page header.php,smallcal.php(small calendar) are included.
+
+	header.php -> Navigation menu bar
+
+	config.php -> Which language to show is decided
+
+	cond.php -> If any language is not set in url then set by default english
+
+	smallcal.php ->Small Calendar page
+	In this calfunctions.php is included.
+
+	calfunctions.php -> All functions for displaying small calendar and popping events
+
+	forum.php -> Guestbook page
+
+	contact.php -> Contact page
+	In this process.ph and folder mailer is included
+
+	process.php -> mail process page
+
+Now  big calendar, big calendar is calendar subfolder
+so it will also start from index.php
+
+	index.php -> Big calendar page
+
+	functions.php -> Big calendar functions 
+
+	
+	
+
